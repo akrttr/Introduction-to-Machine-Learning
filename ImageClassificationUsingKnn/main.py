@@ -114,9 +114,9 @@ def Gabor_process(img):
 
 
 # Read paths for images in different folders
-path_covid = 'C:/Users/Alihan/Desktop/sample/COVID'
-path_pneumonia = 'C:/Users/Alihan/Desktop/sample/Viral Pneumonia'
-path_normal = 'C:/Users/Alihan/Desktop/sample/NORMAL'
+path_covid = 'path for covid images'
+path_pneumonia = 'path for pneumonia images'
+path_normal = 'path for normal images'
 labels = []
 images = []
 filtered_images = []
